@@ -89,8 +89,9 @@ follow the steps to create EC2 Instance:
 ## 7. Now, Click on the instance and copy the "Public IP address"  or " Connect" .
 
 
-     ![AWS 7](https://github.com/somashekar17/TodoApp_devops/assets/49157790/8f359aad-af90-4167-b149-8b775d0debaf)
+![AWS 7](https://github.com/somashekar17/TodoApp_devops/assets/49157790/bea99709-3e81-4578-815a-a6699dd01e59)
 
+     
 
 ## 8. Copy the "ssh -i "security pair-key" ubuntu@1.2.3.4
 

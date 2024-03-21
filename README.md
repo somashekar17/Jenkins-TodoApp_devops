@@ -11,6 +11,14 @@ You will need django to be installed in you computer to run this app. Head over 
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
+Now change the directory using this command
+
+```bash
+cd djnago-todo
+````
+
+Here you will the get command for mirgrations.
+
 ```bash
  python manage.py makemigrations
 ```
@@ -35,4 +43,8 @@ That was pretty simple, right? Now let's make the App live. We just need to star
 
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
-Cheers and Happy Coding :)
+Till now we did execute in our local machine,
+
+#Now we are going to Deploy this project in AWS EC2.
+
+

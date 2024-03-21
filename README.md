@@ -112,7 +112,7 @@ follow the steps to create EC2 Instance:
 ![AWS 10](https://github.com/somashekar17/TodoApp_devops/assets/49157790/86894156-7ae3-462f-9c5f-857495814a8b)
 
 
-## 11. After Directory creation, Clone the repo.
+## 11. After Directory creation, Clone the repo and change the dir to djnago-todo.
 
 
 ![AWS 11](https://github.com/somashekar17/TodoApp_devops/assets/49157790/f77206ed-bc84-47c2-8a07-8450ebe870dd)

@@ -120,15 +120,15 @@ follow the steps to create EC2 Instance:
 
 ## 12. Now use this command to run this application.
 ```bash
- python manage.py makemigrations
+ python3 manage.py makemigrations
 ```
 ```bash
- python manage.py migrate
+ python3 manage.py migrate
 ```
 ```bash
- python manage.py createsuperuser
+ python3 manage.py createsuperuser
 ```
 ## 13. This is final command to run your application in internet and give this IP address to access this application any where from the world.
  ```bash
- python manage.py runserver 0.0.0.0:8000
+ python3 manage.py runserver 0.0.0.0:8000
 ```

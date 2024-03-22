@@ -117,4 +117,18 @@ follow the steps to create EC2 Instance:
 
 ![AWS 11](https://github.com/somashekar17/TodoApp_devops/assets/49157790/f77206ed-bc84-47c2-8a07-8450ebe870dd)
 
-    
+
+## 12. Now use this command to run this application.
+```bash
+ python manage.py makemigrations
+```
+```bash
+ python manage.py migrate
+```
+```bash
+ python manage.py createsuperuser
+```
+## 13. This is final command to run your application in internet and give this IP address to access this application any where from the world.
+ ```bash
+ python manage.py runserver 0.0.0.0:8000
+```

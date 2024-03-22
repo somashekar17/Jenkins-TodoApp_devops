@@ -128,7 +128,13 @@ follow the steps to create EC2 Instance:
 ```bash
  python3 manage.py createsuperuser
 ```
-## 13. This is final command to run your application in internet and give this IP address to access this application any where from the world.
+## 13. Create a new security group for you.
+
+
+![AWS 12](https://github.com/somashekar17/TodoApp_devops/assets/49157790/357d567f-2a84-485c-a2f1-c4c3286da500)
+
+
+## 14. This is final command to run your application in internet and give this IP address to access this application any where from the world.
  ```bash
  python3 manage.py runserver 0.0.0.0:8000
 ```

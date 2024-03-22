@@ -138,3 +138,6 @@ follow the steps to create EC2 Instance:
  ```bash
  python3 manage.py runserver 0.0.0.0:8000
 ```
+
+
+Once the server is hosted, head over to http://1.2.3.4:8000/ todos for the App.

@@ -14,7 +14,7 @@ Once you have downloaded django, go to the cloned repo directory and run the fol
 Now change the directory using this command
 
 ```bash
-cd djnago-todo
+cd django-todo
 ````
 
 Here you will the get command for mirgrations.

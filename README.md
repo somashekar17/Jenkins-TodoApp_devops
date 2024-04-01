@@ -140,4 +140,4 @@ follow the steps to create EC2 Instance:
 ```
 
 
-Once the server is hosted, head over to http://1.2.3.4:8000/ todos for the App.
+Once the server is hosted, head over to http://127.0.0.0:8000/ todos for the App.
